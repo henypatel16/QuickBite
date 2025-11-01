@@ -100,7 +100,7 @@ Follow these steps to set up the QuickBite project locally:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/henypatel16/QuickBite.git
+   git clone https://github.com/henypatel16/QuickBite
 
 2. **Move the Project Folder**
    
